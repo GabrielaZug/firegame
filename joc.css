@@ -1,0 +1,24 @@
+#container {
+  text-align: center;
+}
+
+#scene {
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+  margin: 20px auto;
+}
+
+#actionButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
